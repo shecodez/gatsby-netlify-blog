@@ -1,0 +1,12 @@
+{
+  "name": "Niico",
+  "email": "ni@icosavvy.com",
+  "phone": "(123)456-7890",
+  "hours": "M-F 9AM - 5PM",
+  "address": {
+    "street": "123 Some Street",
+    "city": "Sunshine",
+    "state": "Astate",
+    "zip": "12345"
+  }
+}
